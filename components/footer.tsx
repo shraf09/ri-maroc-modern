@@ -7,8 +7,10 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="bg-red-700 text-white p-2 rounded">
-                <span className="text-xl font-bold">RI</span>
+              <div className="bg-white p-2 rounded">
+                <span className="text-xl font-bold">
+                  <span className="text-gray-700">R</span><span className="text-red-700">I</span>
+                </span>
               </div>
               <div className="flex flex-col">
                 <span className="font-semibold text-sm">Relais Industries</span>

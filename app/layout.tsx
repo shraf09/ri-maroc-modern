@@ -8,10 +8,13 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Relais Industries Maroc - Thermoformage de pièces plastiques",
-  description:
-    "Spécialisée dans la conception et réalisation de pièces plastiques par thermoformage. Votre partenaire industriel au Maroc.",
-    generator: 'v0.dev'
+  title: "RI Maroc",
+  description: "RI Maroc - Votre partenaire de confiance",
+  icons: {
+    icon: "/placeholder-logo.png.png",
+    shortcut: "/placeholder-logo.png.png",
+    apple: "/placeholder-logo.png.png",
+  },
 }
 
 export default function RootLayout({

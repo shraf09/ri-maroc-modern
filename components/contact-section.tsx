@@ -35,7 +35,7 @@ export function ContactSection() {
                 <Mail className="h-6 w-6 text-red-200" />
                 <div>
                   <p className="font-semibold">Email</p>
-                  <p className="text-red-100">contact@ri-maroc.com</p>
+                  <p className="text-red-100">pnicotera@fri-services.com</p>
                 </div>
               </div>
 

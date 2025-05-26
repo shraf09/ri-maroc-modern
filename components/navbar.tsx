@@ -22,9 +22,9 @@ export function Navbar() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="bg-red-700 text-white p-2 rounded">
-              <span className="text-2xl font-bold">RI</span>
-            </div>
+            <span className="text-2xl font-bold">
+              <span className="text-gray-700">R</span><span className="text-red-700">I</span>
+            </span>
             <div className="flex flex-col">
               <span className="text-gray-800 font-semibold text-sm">Relais Industries</span>
               <span className="text-red-700 font-semibold text-sm">Maroc</span>
