@@ -57,6 +57,21 @@ const slides: Slide[] = [
   {
     image: "/images/slider/slide16.png.jpg",
   },
+  {
+    image: "/images/slider/slide17.png.jpg",
+  },
+  {
+    image: "/images/slider/slide18.png.jpg",
+  },
+  {
+    image: "/images/slider/slide19.png.jpg",
+  },
+  {
+    image: "/images/slider/slide20.png.jpg",
+  },
+  {
+    image: "/images/slider/slide21.png.jpg",
+  },
 ]
 
 export function HeroSlider() {
